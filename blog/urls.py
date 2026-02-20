@@ -18,4 +18,5 @@ urlpatterns = [
         views.category_posts,
         name='category'
     ),
+
 ]
