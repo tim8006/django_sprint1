@@ -25,4 +25,6 @@ def category_posts(request, category_slug):
         request,
         'blog/category.html',
         {'posts': posts}
+
     )
+    
